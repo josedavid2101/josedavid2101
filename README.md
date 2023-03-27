@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Jose and I am passionate about Data Science and Analytics. I am currently getting my PhD in Engineering from Brigham Young University. Check out my <[Portfolio](https://github.com/archd3sai/Portfolio)> Portfolio for all of my projects, micro-projects, skills, certificates, and achievements. 
+
 <!--
 **josedavid2101/josedavid2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
