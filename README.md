@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Diffusion generative models**
 
-- 👨‍💻 All of my projects are available at [https://josedavid2101.github.io/Jose_Portfolio/](https://josedavid2101.github.io/Jose_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://josedavid2101.github/Jose_Portfolio/](https://github.com/josedavid2101/Jose_Portfolio/tree/main)
 
 - 💬 Ask me about **Materials Science, Machine learning, Statistics**
 
