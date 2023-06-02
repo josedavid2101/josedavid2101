@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose</h1>
+<h1 align="center">Hi 👋,  I'm Jose</h1>
 <h3 align="center">I am passionate about Data Science and Analytics. I am currently getting my PhD in Engineering from Brigham Young University. Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.</h3>
 
 - 🔭 I’m currently working on **Materials Image Synthesis**
