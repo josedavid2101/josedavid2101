@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Materials Image Synthesis**
 
-- 🌱 I’m currently learning **Diffusion generative models**
+- 🌱 I’m currently learning **ChatGPT Prompt Engineering for Developers**
 
 - 👨‍💻 All of my projects are available at [https://josedavid2101.github/Jose_Portfolio/](https://github.com/josedavid2101/Jose_Portfolio/tree/main)
 
